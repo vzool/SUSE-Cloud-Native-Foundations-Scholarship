@@ -11,7 +11,7 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
 2 | Architecture Consideration for Cloud Native Applications |  &#9745;
 3 | Container Orchestration with Kubernetes |  &#9745;
 4 | Open Source PaaS |  &#9745;
-5 | CI/CD with Cloud Native Tooling |  &#9744;
+5 | CI/CD with Cloud Native Tooling |  &#9746;
 
 ## Status Definitions
  &#9744; Means that the particular Chapter is not started yet 👍 <br>
