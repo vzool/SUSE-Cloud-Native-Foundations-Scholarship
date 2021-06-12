@@ -8,9 +8,9 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
 ✨| Udacity SUSE Cloud Native Fundamentals Scholarship Program Nanodegree Program | Status
 --- | ---| ---
 1 | Introduction to Cloud Native Fundamentals |  &#9745;
-2 | Architecture Consideration for Cloud Native Applications |  &#9744;
-3 | Container Orchestration with Kubernetes |  &#9744;
-4 | Open Source PaaS |  &#9744;
+2 | Architecture Consideration for Cloud Native Applications |  &#9745;
+3 | Container Orchestration with Kubernetes |  &#9745;
+4 | Open Source PaaS |  &#9745;
 5 | CI/CD with Cloud Native Tooling |  &#9744;
 
 ## Status Definitions
